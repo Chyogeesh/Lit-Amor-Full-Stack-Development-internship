@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Tansen’s Tomb",
+    "description": "A peaceful historical site with lush gardens, perfect for reflection.",
+    "vibe": "Serene",
+    "location": { "type": "Point", "coordinates": [78.1800, 26.2195] },
+    "images": [],
+    "ratings": { "uniqueness": 4.5, "vibe": 4.0, "safety": 4.8, "crowd": 3.5 }
+  },
+  {
+    "title": "Sas-Bahu Temple",
+    "description": "Intricate architecture for art lovers and history buffs.",
+    "vibe": "Creative",
+    "location": { "type": "Point", "coordinates": [78.1789, 26.2235] },
+    "images": [],
+    "ratings": { "uniqueness": 4.7, "vibe": 4.2, "safety": 4.5, "crowd": 3.0 }
+  },
+  {
+    "title": "Gujari Mahal",
+    "description": "A quiet ruin with a romantic past, ideal for evening strolls.",
+    "vibe": "Romantic",
+    "location": { "type": "Point", "coordinates": [78.1678, 26.2207] },
+    "images": [],
+    "ratings": { "uniqueness": 4.3, "vibe": 4.5, "safety": 4.0, "crowd": 3.8 }
+  },
+  {
+    "title": "Phool Bagh",
+    "description": "A hidden garden with serene vibes, great for relaxation.",
+    "vibe": "Serene",
+    "location": { "type": "Point", "coordinates": [78.1900, 26.2150] },
+    "images": [],
+    "ratings": { "uniqueness": 4.0, "vibe": 4.3, "safety": 4.7, "crowd": 3.2 }
+  }
+]
